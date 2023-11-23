@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.23.5",
+    "@clerk/nextjs": "^4.27.2",
     "@clerk/themes": "^1.7.5",
     "@hookform/resolvers": "^3.3.1",
     "@radix-ui/react-label": "^2.0.2",
@@ -34,7 +34,7 @@
     "micro": "^10.0.1",
     "mongodb": "^6.1.0",
     "mongoose": "^7.5.1",
-    "next": "13.4.19",
+    "next": "^14.0.3",
     "postcss": "8.4.29",
     "prettier": "^3.0.3",
     "react": "18.2.0",
